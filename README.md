@@ -6,6 +6,6 @@ Anggota kelompok :
 4. Reinhard                   (1303194083)
 5. Dita Aprilliani            (1303194098)
 
-Code aplikasi berada pada folder KasirKelompok3
+Project aplikasi berada pada folder KasirKelompok3
 
 Database yang digunakan file penjualan.sql
